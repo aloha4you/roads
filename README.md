@@ -5,7 +5,7 @@
 - `road_train_2.ipynb` - Код в Google Colaboratory
 - `Prezentatsia_konkursa_NIRS_7_-_Savelev_M_V.pptx` - презентация к НИРС
 - `(7) – Савельев М.В.doc` - тезис к НИРС
-- `weight.h5` - готовая модель с весами.
+- `modelRoads.zip` - готовая модель с весами, архив
 
 ## Как пользоваться?
 
